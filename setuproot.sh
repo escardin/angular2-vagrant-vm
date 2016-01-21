@@ -18,7 +18,7 @@ curl -s https://storage.googleapis.com/download.dartlang.org/linux/debian/dart_s
 
 ## Install dart, git, node 4.x, chrome dependencies
 apt-get update
-apt-get install -y dart git nodejs libappindicator1 libindicator7
+apt-get install -y dart git nodejs libappindicator1 libindicator7 openjdk-7-jdk
 
 
 ## Prep for dartium
